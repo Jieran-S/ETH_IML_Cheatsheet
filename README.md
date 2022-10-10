@@ -1,2 +1,4 @@
 # ETH_IML_Cheatsheet
-Latex code and pdf file for Introduction to Machine Learning 2022 HS Cheatsheet 
+---
+
+This is the cheatsheet latex code and phf file by Jieran Sun. 2022 HS. 
